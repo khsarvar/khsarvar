@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarvar Khamidov
 - 👀 I’m interested in technology in general, especially Data Science with Machine Learning
-- 🌱 I’m currently learning Python, JavaScript, HTML
+- 🌱 I’m currently learning Python, Ruby, JavaScript, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Easy, khamidovsar@gmail.com
 
