@@ -4,11 +4,7 @@ AI engineer and data scientist based in NYC.
 
 Most of my work has been in pharma and biotech — building agentic systems at **AbbVie**, wearable data pipelines at **NYU Langone**, and clinical data tooling at **Regeneron**. I've also done ML research at the Feng Lab and founded [AcadyLearn](https://acadylearn.com), an AI app that turns documents into quizzes and flashcards.
 
-## What I work with
-
-**ML/AI:** Python · PyTorch · QLoRA · LLM tool-use · Agentic workflows · Fine-tuning  
-**Stats:** R · Mixed-effects models · Survival analysis · Survey-weighted regression  
-**Stack:** FastAPI · Next.js · AWS · Pydantic-AI  
+I work primarily in Python and R, across ML, agentic systems, and biostatistics.
 
 ## Recent projects
 
