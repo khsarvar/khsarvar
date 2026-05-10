@@ -1,6 +1,6 @@
 # Hi, I'm Sarvar 👋
 
-AI engineer and data scientist based in NYC.
+AI engineer and data scientist based in NYC (open to relocate).
 
 Most of my work has been in pharma and biotech — building agentic systems at **AbbVie**, wearable data pipelines at **NYU Langone**, and clinical data tooling at **Regeneron**. I've also done ML research at the Feng Lab and founded [AcadyLearn](https://acadylearn.com), an AI app that turns documents into quizzes and flashcards.
 
